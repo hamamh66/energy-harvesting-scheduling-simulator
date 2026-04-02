@@ -1,0 +1,13 @@
+Policy,Energy_Arrival_Rate,Generated,Sent,Lost,Avg_Delay (simulation time units),Delivery_Ratio
+greedy,0.5,491,136,355,161.8726,0.277
+threshold,0.5,512,143,369,163.6377,0.2793
+random,0.5,478,145,333,179.3776,0.3033
+save_then_transmit,0.5,521,160,361,184.2131,0.3071
+greedy,0.8,523,266,257,107.878,0.5086
+threshold,0.8,487,237,250,122.5333,0.4867
+random,0.8,505,229,276,127.0303,0.4535
+save_then_transmit,0.8,499,219,280,132.475,0.4389
+greedy,1.0,499,323,176,77.2916,0.6473
+threshold,1.0,510,282,228,106.9921,0.5529
+random,1.0,467,226,241,115.7999,0.4839
+save_then_transmit,1.0,479,271,208,105.3793,0.5658
